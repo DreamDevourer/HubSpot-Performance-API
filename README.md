@@ -8,6 +8,8 @@
 
 <img src="./Sample.svg" alt="Parsing JSON sample.">
 
+<img src="./Performance-API-Flowchart.png" alt="How the performance API script works.">
+
 ## Getting Started
 
 Make sure to install Python 3.7.3 or higher, and the dependencies listed in the requirements.txt file. Then, run the following command to install the dependencies:
