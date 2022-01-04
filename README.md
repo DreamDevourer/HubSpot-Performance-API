@@ -5,7 +5,9 @@
 <p align="center">
   <a href="./LICENSE">License</a> |
   <a href="./API Research/HubSpot API Documentation.md">API Documentation</a> |
-  <a href="https://developers.hubspot.com/docs/api/cms/performance">Oficial API Page</a>
+  <a href="https://developers.hubspot.com/docs/api/cms/performance">Official API Page</a> | 
+  <a href="./API Research/Concept.md">Main Concept</a> |
+  <a href="./API Research/Flowchart - Performance API.pdf">Flowchart</a>
 </p>
 
 <img src="./Sample.svg" alt="Parsing JSON sample.">
