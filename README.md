@@ -3,7 +3,9 @@
 <p align="center">This is the manual for the Python script that gets the performance data from a specific HubSpot portal using API key.</p>
 
 <p align="center">
-  <a href="./LICENSE">License</a>
+  <a href="./LICENSE">License</a> |
+  <a href="./API Research/HubSpot API Documentation.md">API Documentation</a> |
+  <a href="https://developers.hubspot.com/docs/api/cms/performance">Oficial API Page</a>
 </p>
 
 <img src="./Sample.svg" alt="Parsing JSON sample.">
