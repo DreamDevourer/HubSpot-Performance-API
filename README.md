@@ -6,6 +6,8 @@
   <a href="./LICENSE">License</a>
 </p>
 
+<img src="./Sample.svg" alt="Parsing JSON sample.">
+
 ## Getting Started
 
 Make sure to install Python 3.7.3 or higher, and the dependencies listed in the requirements.txt file. Then, run the following command to install the dependencies:
