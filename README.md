@@ -1,4 +1,4 @@
-<h1 align="center">General Manual for Performance API Python script 🚦</h1>
+<h1 align="center">HubSpot Performance API Python script 🚦</h1>
 
 <p align="center">This is the manual for the Python script that gets the performance data from a specific HubSpot portal using API key.</p>
 
